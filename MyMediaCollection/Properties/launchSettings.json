@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MyMediaCollection": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
